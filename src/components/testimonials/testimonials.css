@@ -1,0 +1,70 @@
+.testimonial__container {
+  width: 750px;
+}
+
+.testimonial__card {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1.5rem 2rem;
+  border-radius: 1.5rem;
+  margin-bottom: var(--mb-3);
+}
+
+.testimonial__img {
+  width: 60px;
+  border-radius: 3rem;
+  margin-bottom: var(--mb-1);
+}
+
+.testimonial__name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--mb-0-25);
+}
+
+.testimonial__description {
+  font-size: var(--small-font-size);
+}
+
+/* Swiper Class */
+.swiper-pagination-bullet {
+  background-color: var(--text-color) !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: var(--title-color) !important;
+}
+
+.swiper-slide.testimonial__card,
+.testimonial__name,
+.testimonial__description {
+  transition: 0.3s ease-in-out;
+}
+
+.testimonial__card:hover {
+  cursor: default;
+  background: var(--title-color);
+  color: var(--container-color);
+}
+
+.testimonial__card:hover .testimonial__description,
+.testimonial__card:hover .testimonial__name {
+  color: var(--container-color);
+}
+
+.testimonial__card:hover i,
+.testimonial__card:hover h3,
+.testimonial__card:hover span {
+  color: var(--container-color);
+}
+
+/* Breakpoints */
+
+/* For large Devices (desktop to large tablets) */
+@media screen and (max-width: 992px) {
+  .testimonial__container {
+    width: initial;
+  }
+  .testimonial__card {
+    padding: 1.25rem 1.5rem;
+  }
+}
