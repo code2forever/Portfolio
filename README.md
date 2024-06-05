@@ -26,10 +26,10 @@ This repository contains the source code for my personal portfolio website, show
 ![Screenshot 1](readme-image/ss_01.png)
 *Home*
 
-![Screenshot 2](readme-image/ss_02.JPG)
+![Screenshot 2](readme-image/ss_02.png)
 *About*
 
-![Screenshot 3](readme-image/ss_03.JPG)
+![Screenshot 3](readme-image/ss_03.png)
 *Expertise*
 
 ![Screenshot 4](readme-image/ss_04.png)
@@ -44,7 +44,7 @@ This repository contains the source code for my personal portfolio website, show
 ![Screenshot 7](readme-image/ss_07.png)
 *Ge in touch*
 
-![Screenshot 8](readme-image/ss_08.png)
+![Screenshot 8](readme-image/ss_08.JPG)
 *Responsive view*
 
 
