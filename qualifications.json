@@ -8,37 +8,30 @@
   },
   {
     "type": "education",
-    "programme": "High School Diploma",
-    "institution": "ABC Senior Secondary School",
-    "grade": "85%",
-    "tenure": "2018 - 2020"
-  },
-  {
-    "type": "experience",
-    "programme": "Software Engineering Intern",
-    "institution": "Tech Solutions Ltd.",
-    "grade": "",
-    "tenure": "Summer 2023"
-  },
-  {
-    "type": "experience",
-    "programme": "Junior Developer",
-    "institution": "Innovative Apps Inc.",
-    "grade": "",
-    "tenure": "2024 - Present"
+    "programme": "12th Standard",
+    "institution": "JB Academy",
+    "grade": "88.4%",
+    "tenure": "2019 - 2020"
   },
   {
     "type": "education",
-    "programme": "Master of Technology in Data Science",
-    "institution": "XYZ University",
-    "grade": "9.00 CGPA",
-    "tenure": "2024 - 2026"
+    "programme": "10th Standard",
+    "institution": "JB Academy",
+    "grade": "91.1%%",
+    "tenure": "2017 - 2018"
   },
   {
     "type": "experience",
-    "programme": "Research Assistant",
-    "institution": "XYZ University",
-    "grade": "",
-    "tenure": "2025 - 2026"
-  }
+    "programme": "Web Developer Intern",
+    "institution": "GrowthBuk",
+    "grade": "Remote",
+    "tenure": "2023 - Present"
+  },
+  {
+    "type": "experience",
+    "programme": "Web Developer Intern",
+    "institution": "Ranjan Technologies",
+    "grade": "Remote",
+    "tenure": "2022 - 2022"
+  },
 ]
