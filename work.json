@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Bounce Battle",
+    "image": "https://raw.githubusercontent.com/code2forever/Bounce-Battle/master/readme-image/ss_05.png",
+    "liveProjectLink": "",
+    "repoLink": "https://github.com/code2forever/Bounce-Battle",
+    "viewMoreLink":"",
+    "category": "python"
+  },
+  {
+    "title": "Minecraft",
+    "image": "https://raw.githubusercontent.com/code2forever/minecraftClone-JS/master/images/construction.png",
+    "liveProjectLink": "https://minecraftonjs.netlify.app/",
+    "repoLink": "https://github.com/code2forever/minecraftClone-JS",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/memeGenerator/master/readme_image/meme_generator.PNG",
+    "title": "Meme Generator",
+    "liveProjectLink": "https://memeisfun.netlify.app/",
+    "repoLink": "https://github.com/code2forever/memeGenerator",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/snakeawake/master/readme-image/ss_01.JPG",
+    "title": "Snake Awake",
+    "liveProjectLink": "https://code2forever.github.io/snakeawake/",
+    "repoLink": "https://github.com/code2forever/snakeawake",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/tenziesGame/master/readme_image/day.png",
+    "title": "Tenzies Game",
+    "liveProjectLink": "https://playontenzies.netlify.app/",
+    "repoLink": "https://github.com/code2forever/tenziesGame",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/quizzicle/master/readme_images/intro.png",
+    "title": "Quizzicle",
+    "liveProjectLink": "https://quizicals.netlify.app/",
+    "repoLink": "https://github.com/code2forever/quizzicle",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "title": "Lets Node",
+    "image": "https://raw.githubusercontent.com/code2forever/letsNote/master/readme-image/banner-noNotes.png",
+    "liveProjectLink": "https://letsnoteeditor.netlify.app/",
+    "repoLink": "https://github.com/code2forever/letsNote",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/profileCard/master/readme_img/profileCard.PNG",
+    "title": "Profile card",
+    "liveProjectLink": "https://kalashagrahariprofile.netlify.app",
+    "repoLink": "https://github.com/code2forever/profileCard",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/leetcode.jpeg",
+    "title": "Leetcode",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://leetcode.com/u/agraharikalash/",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/gfg.jpeg",
+    "title": "GeeksforGeeks",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://www.geeksforgeeks.org/user/agraharik9696/",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/codingninjas.png",
+    "title": "CodeStudio - Coding Ninjas",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://www.naukri.com/code360/profile/331e7f0a-fa28-42ce-a374-6dd87b338e70",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/sololearn.png",
+    "title": "Sololearn",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://www.sololearn.com/en/profile/10693628",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/hackerrank.png",
+    "title": "HackerRank",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://www.hackerrank.com/profile/agraharik9696",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/codechef.png",
+    "title": "CodeChef",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://www.codechef.com/users/agraharikalash",
+    "category": "coding"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/3D.jpg",
+    "title": "3D Vector",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink": "https://drawlinguistic.blogspot.com/2022/01/drink-it-and-be-pro-coder.html",
+    "category": "graphic"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/Mens%20Watch.jpg",
+    "title": "Mesh Tool - Wristwatch",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://drawlinguistic.blogspot.com/2022/01/now-its-affordable.html",
+    "category": "graphic"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/razer%20mamba.jpg",
+    "title": "Mesh Tool - Razer Mamba",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://drawlinguistic.blogspot.com/2022/01/gamers-love-razer-mamba.html",
+    "category": "graphic"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/codeforever%20logo.png",
+    "title": "Codeforever - Logo",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://drawlinguistic.blogspot.com/2022/01/codeforever.html",
+    "category": "graphic"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/codeforever%20seal.png",
+    "title": "Codeforever - Seal",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://drawlinguistic.blogspot.com/2022/01/stamp-it-everywhere.html",
+    "category": "graphic"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/figma.png",
+    "title": "Web design",
+    "liveProjectLink": "",
+    "repoLink": "",
+    "viewMoreLink":"https://kalashagrahari.blogspot.com/2021/05/my-first-figma-project.html",
+    "category": "graphic"
+  }
+]
