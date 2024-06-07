@@ -1,0 +1,8 @@
+[
+  { "name": "CSS", "level": "Advanced" },
+  { "name": "JavaScript", "level": "Intermediate" },
+  { "name": "React.js", "level": "Intermediate" },
+  { "name": "jQuery", "level": "Intermediate" },
+  { "name": "Bootstrap", "level": "Intermediate" },
+  { "name": "Git", "level": "Intermediate" }
+]
