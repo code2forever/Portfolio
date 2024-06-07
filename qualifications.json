@@ -1,0 +1,44 @@
+[
+  {
+    "type": "education",
+    "programme": "Bachelor of Technology in Computer Science Engineering",
+    "institution": "GL Bajaj Group of Institutions",
+    "grade": "8.00 CGPA",
+    "tenure": "2020 - 2024"
+  },
+  {
+    "type": "education",
+    "programme": "High School Diploma",
+    "institution": "ABC Senior Secondary School",
+    "grade": "85%",
+    "tenure": "2018 - 2020"
+  },
+  {
+    "type": "experience",
+    "programme": "Software Engineering Intern",
+    "institution": "Tech Solutions Ltd.",
+    "grade": "",
+    "tenure": "Summer 2023"
+  },
+  {
+    "type": "experience",
+    "programme": "Junior Developer",
+    "institution": "Innovative Apps Inc.",
+    "grade": "",
+    "tenure": "2024 - Present"
+  },
+  {
+    "type": "education",
+    "programme": "Master of Technology in Data Science",
+    "institution": "XYZ University",
+    "grade": "9.00 CGPA",
+    "tenure": "2024 - 2026"
+  },
+  {
+    "type": "experience",
+    "programme": "Research Assistant",
+    "institution": "XYZ University",
+    "grade": "",
+    "tenure": "2025 - 2026"
+  }
+]
