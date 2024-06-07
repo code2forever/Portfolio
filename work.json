@@ -1,13 +1,5 @@
 [
   {
-    "title": "Bounce Battle",
-    "image": "https://raw.githubusercontent.com/code2forever/Bounce-Battle/master/readme-image/ss_05.png",
-    "liveProjectLink": "",
-    "repoLink": "https://github.com/code2forever/Bounce-Battle",
-    "viewMoreLink":"",
-    "category": "python"
-  },
-  {
     "title": "Minecraft",
     "image": "https://raw.githubusercontent.com/code2forever/minecraftClone-JS/master/images/construction.png",
     "liveProjectLink": "https://minecraftonjs.netlify.app/",
@@ -30,6 +22,22 @@
     "repoLink": "https://github.com/code2forever/snakeawake",
     "viewMoreLink":"",
     "category": "web"
+  },
+  {
+    "title": "Portfolio",
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/ss_01.png",
+    "liveProjectLink": "https://kalashagrahari.netlify.app/",
+    "repoLink": "https://github.com/code2forever/portfolio",
+    "viewMoreLink":"",
+    "category": "web"
+  },
+  {
+    "title": "Bounce Battle",
+    "image": "https://raw.githubusercontent.com/code2forever/Bounce-Battle/master/readme-image/ss_05.png",
+    "liveProjectLink": "",
+    "repoLink": "https://github.com/code2forever/Bounce-Battle",
+    "viewMoreLink":"",
+    "category": "python"
   },
   {
     "image": "https://raw.githubusercontent.com/code2forever/tenziesGame/master/readme_image/day.png",
