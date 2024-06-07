@@ -1,4 +1,4 @@
-.work__filter {
+.certificate__filter {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,7 +9,7 @@
   padding: 0px 10px;
 }
 
-.work__item {
+.certificate__item {
   cursor: pointer;
   color: var(--title-color);
   padding: 0.25rem 0.75rem;
@@ -19,18 +19,18 @@
   transition: 0.3s;
 }
 
-.work__item:hover {
+.certificate__item:hover {
   background-color: var(--title-color);
   color: var(--container-color);
 }
 
-.work__container {
+.certificate__container {
   grid-template-columns: repeat(2, max-content);
   gap: 3rem;
   justify-content: center;
 }
 
-.work__card {
+.certificate__card {
   background-color: var(--container-color);
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 1.25rem;
@@ -38,125 +38,125 @@
   transition: 0.3s ease-in-out;
 }
 
-.work__card:hover {
+.certificate__card:hover {
   background: var(--title-color);
 }
 
-.work__img {
+.certificate__img {
   width: 295px;
   border-radius: 1rem;
   margin-bottom: var(--mb-1);
-  object-fit: cover;
+  object-fit: fill;
   height: 200px;
 }
 
-.work__card .work__img {
+.certificate__card .certificate__img {
   transition: transform 0.3s ease-in-out;
   will-change: transform;
 }
 
-.work__card:hover .work__img {
+.certificate__card:hover .certificate__img {
   transform: scale(1.05);
 }
 
-.work__title {
+.certificate__title {
   font-size: var(--normal-forn-size);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-0-5);
 }
 
-.work__links {
+.certificate__links {
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
 }
 
-.work__button {
+.certificate__button {
   font-size: var(--small-font-size);
   display: flex;
   column-gap: 0.25rem;
   align-items: center;
 }
 
-.work__button,
-.work__button:visited,
-.work__button:active {
+.certificate__button,
+.certificate__button:visited,
+.certificate__button:active {
   color: var(--text-color);
   text-decoration: none;
 }
 
-.work__button-icon {
+.certificate__button-icon {
   font-size: 1rem;
   color: var(--text-color);
   transition: 0.3s ease-in-out;
 }
 
-.work__card .work__button,
-.work__card .work__button-icon,
-.work__button .work__button-icon {
+.certificate__card .certificate__button,
+.certificate__card .certificate__button-icon,
+.certificate__button .certificate__button-icon {
   transition: 0.3s ease-in-out;
 }
 
-.work__card h3 {
+.certificate__card h3 {
   transition: 0.3s ease-in-out;
 }
 
-.work__card:hover h3,
-.work__card:hover .work__button,
-.work__card:hover .work__button-icon,
-.work__button:hover .work__button-icon {
+.certificate__card:hover h3,
+.certificate__card:hover .certificate__button,
+.certificate__card:hover .certificate__button-icon,
+.certificate__button:hover .certificate__button-icon {
   color: var(--container-color);
 }
 
-.work__button:hover .work__button-icon {
+.certificate__button:hover .certificate__button-icon {
   transform: translate(0.25rem);
 }
 
-.active-work {
+.active-certificate {
   background-color: var(--title-color);
   color: var(--container-color);
 }
 
 @media screen and (max-width: 992px) {
-  .work__container {
+  .certificate__container {
     gap: 1.25rem;
   }
 
-  .work__card {
+  .certificate__card {
     padding: 1rem;
   }
 
-  .work__img {
+  .certificate__img {
     margin-bottom: 0.75rem;
   }
 
-  .work__title {
+  .certificate__title {
     margin-bottom: 0.25rem;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .work__container {
+  .certificate__container {
     grid-template-columns: max-content;
   }
 }
 
 @media screen and (max-width: 576px) {
-  .work__container {
+  .certificate__container {
     grid-template-columns: 1fr;
   }
 
-  .work__img {
+  .certificate__img {
     width: 100%;
   }
 }
 
 @media screen and (max-width: 350px) {
-  .work__item {
+  .certificate__item {
     font-size: var(--small-font-size);
   }
 
-  .work__filters {
+  .certificate__filters {
     column-gap: 0.25rem;
   }
 }

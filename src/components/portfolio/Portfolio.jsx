@@ -9,7 +9,7 @@ const Portfolio = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://api.github.com/repos/code2forever/code2forever/contents/work.json');
+        const response = await fetch('https://api.github.com/repos/code2forever/portfolio/contents/work.json');
         const data = await response.json();
         const content = JSON.parse(atob(data.content));
         setWorkItems(content);
@@ -43,25 +43,31 @@ const Portfolio = () => {
         <span className={`work__item ${activeCategory === "python" ? "active-work" : ""}`} onClick={() => filterItems("python")}>Python</span>
       </div>
       <div className="work__container container grid">
-        {filteredWorkItems.map((item, index) => (
-          <div key={index} className="work__card">
-            <img src={item.image} alt={item.title} className="work__img" />
-            <h3 className="work__title">{item.title}</h3>
-            <div className="work__links">
-              {item.repoLink && 
-                <a href={item.repoLink} className="work__button" target="_blank" rel="noopener noreferrer">
-                Repo<i className="bx bx-right-arrow-alt work__button-icon"></i>
-              </a>
-              }
-              { item.liveProjectLink &&
-                <a href={item.liveProjectLink} className="work__button" target="_blank" rel="noopener noreferrer">
-                Live <i className="bx bx-right-arrow-alt work__button-icon"></i>
-              </a>
-              }
-            </div>
-          </div>
-        ))}
+  {filteredWorkItems.slice(0, 6).map((item, index) => (
+    <div key={index} className="work__card">
+      <img src={item.image} alt={item.title} className="work__img" />
+      <h3 className="work__title">{item.title}</h3>
+      <div className="work__links">
+        {item.repoLink && 
+          <a href={item.repoLink} className="work__button" target="_blank" rel="noopener noreferrer">
+            Repo<i className="bx bx-right-arrow-alt work__button-icon"></i>
+          </a>
+        }
+        {item.liveProjectLink &&
+          <a href={item.liveProjectLink} className="work__button" target="_blank" rel="noopener noreferrer">
+            Live <i className="bx bx-right-arrow-alt work__button-icon"></i>
+          </a>
+        }
+        {item.viewMoreLink &&
+          <a href={item.viewMoreLink} className="work__button" target="_blank" rel="noopener noreferrer">
+            View more <i className="bx bx-right-arrow-alt work__button-icon"></i>
+          </a>
+        }
       </div>
+    </div>
+  ))}
+</div>
+
     </section>
   );
 };

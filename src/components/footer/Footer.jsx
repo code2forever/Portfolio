@@ -20,14 +20,14 @@ const Footer = () => {
           </li>
         </ul>
         <div className="footer__social">
-        <a href="https://www.facebook.com/" className="footer__social-link" target='_blank'>
-      <i className="bx bxl-facebook"></i>
+      <a href="https://linktr.ee/kalashagrahari" className="footer__social-link" target='_blank'>
+      <i class='bx bx-link'></i>
       </a>
-      <a href="https://www.instagram.com/" className="footer__social-link" target='_blank'>
-      <i className="bx bxl-instagram"></i>
+      <a href="https://kalashagrahari.blogspot.com/" className="footer__social-link" target='_blank'>
+      <i class='bx bxl-blogger'></i>
       </a>
-      <a href="https://x.com/" className="footer__social-link" target='_blank'>
-      <i className="bx bxl-twitter"></i>
+      <a href="https://github.com/code2forever" className="footer__social-link" target='_blank'>
+      <i class='bx bxl-github' ></i>
       </a>
         </div>
 

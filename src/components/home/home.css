@@ -92,8 +92,7 @@ svg.home__hand {
   margin-bottom: var(--mb-3);
 }
 .home__img {
-  background: url(../../assets/me2.jpg);
-  background: url(../../assets/me5.jpg);
+  background: url("https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/me_home.jpg");
   background-repeat: no-repeat;
   /*for me2*/
   /* background-position: 0px -130px; */

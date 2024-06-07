@@ -6,7 +6,7 @@ const Frontend = () => {
   useEffect(() => {
     const fetchSkills = async () => {
       try {
-        const response = await fetch('https://api.github.com/repos/code2forever/code2forever/contents/frontend-skills.json');
+        const response = await fetch('https://api.github.com/repos/code2forever/portfolio/contents/frontend-skills.json');
         const data = await response.json();
         const content = JSON.parse(atob(data.content));
         setSkills(content);

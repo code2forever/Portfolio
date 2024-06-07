@@ -27,6 +27,10 @@ const Social = () => {
       <a href="https://github.com/code2forever" className="home__social-icon" target='_blank'>
       <i className="uil uil-github-alt"></i>
       </a>
+      
+      <a href="https://linktr.ee/kalashagrahari" className="home__social-icon" target='_blank'>
+      <i class='bx bx-link'></i>
+      </a>
     </div>
   )
 }

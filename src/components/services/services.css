@@ -184,11 +184,12 @@
 }
 
 /* For small Devices (small mobiles) */
-@media screen and (max-width: 350px) {
+@media only screen and (max-width: 430px) {
   .services__container {
+    grid-template-columns: -webkit-max-content;
     grid-template-columns: max-content;
   }
   .services__content {
-    padding: 5.5rem 8rem 1.25rem 1.5rem;
+    padding: 5rem 5rem 1.25rem 1.5rem;
   }
 }

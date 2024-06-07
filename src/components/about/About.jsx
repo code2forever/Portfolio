@@ -1,9 +1,9 @@
 import React from 'react'
 import "./about.css";
-import AboutImg from "../../assets/me2.jpg";
-import Resume from "../../assets/Resume Kalash Agrahari.pdf";
 import Info from './Info';
 
+const AboutImgURL = "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/me_about.jpg";
+const ResumeURL = "https://raw.githubusercontent.com/code2forever/portfolio/master/Resume.pdf";
 const About = () => {
   return (
     <section className="about section" id="about">
@@ -11,7 +11,7 @@ const About = () => {
       <span className="section__subtitle">My introduction</span>
 
       <div className="about__container container grid">
-        <img src={AboutImg} alt="About Image" className="about__img" />
+        <img src={AboutImgURL} alt="About" className="about__img" />
         <div className="about__data">
           <Info/>
           <p className="about__description">
@@ -19,7 +19,7 @@ const About = () => {
           <br></br><br></br>
           I bring expertise in Data Structures and Algorithms, honing my skills on platforms like LeetCode, GeeksforGeeks and more.
           </p>
-          <a download="Resume_Kalash_Agrahari.pdf" href={Resume} className="button button--flex">Download Resume 
+          <a download="Resume_Kalash_Agrahari.pdf" href={ResumeURL} className="button button--flex">Download Resume 
           <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
