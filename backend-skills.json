@@ -1,0 +1,8 @@
+[
+  { "name": "Node.js", "level": "Intermediate" },
+  { "name": "MySQL", "level": "Intermediate" },
+  { "name": "MongoDB", "level": "Intermediate" },
+  { "name": "Python", "level": "Intermediate" },
+  { "name": "Django", "level": "Basic" },
+  { "name": "PHP", "level": "Intermediate" }
+]
