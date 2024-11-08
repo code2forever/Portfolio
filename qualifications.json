@@ -22,10 +22,17 @@
   },
   {
     "type": "experience",
+    "programme": "Web Developer",
+    "institution": "GrowthBuk",
+    "grade": "Remote",
+    "tenure": "2024 - Present"
+  },
+  {
+    "type": "experience",
     "programme": "Web Developer Intern",
     "institution": "GrowthBuk",
     "grade": "Remote",
-    "tenure": "2023 - Present"
+    "tenure": "2023 - 2024"
   },
   {
     "type": "experience",
