@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "name": "Kalash Agrahari",
+    "shortName": "Agrahari",
+    "role": "Full Stack Developer",
+    "location": "India",
+    "email": "agraharik9696@gmail.com",
+    "phone": "",
+    "resumeUrl": "https://raw.githubusercontent.com/code2forever/portfolio/master/Resume.pdf"
+  },
+  "home": {
+    "title": "Kalash Agrahari",
+    "subtitle": "Full Stack Developer",
+    "description": "Full Stack Developer focused on building scalable web applications, backend systems, APIs, and performance-oriented user experiences.",
+    "ctaText": "Say Hello",
+    "ctaLink": "#contact"
+  },
+  "navigation": [
+    { "id": "home", "label": "Home", "href": "#home", "icon": "uil uil-estate" },
+    { "id": "about", "label": "About", "href": "#about", "icon": "uil uil-user" },
+    { "id": "skills", "label": "Skills", "href": "#skills", "icon": "uil uil-file-alt" },
+    { "id": "services", "label": "Expertise", "href": "#services", "icon": "uil uil-briefcase-alt" },
+    { "id": "portfolio", "label": "Portfolio", "href": "#portfolio", "icon": "uil uil-scenery" },
+    { "id": "contact", "label": "Contact", "href": "#contact", "icon": "uil uil-message" }
+  ],
+  "socialLinks": [
+    { "label": "LeetCode", "url": "https://leetcode.com/u/agraharikalash/", "icon": "custom-leetcode" },
+    { "label": "GeeksforGeeks", "url": "https://www.geeksforgeeks.org/user/agraharik9696/", "icon": "custom-gfg" },
+    { "label": "GitHub", "url": "https://github.com/code2forever", "icon": "uil uil-github-alt" },
+    { "label": "Linktree", "url": "https://linktr.ee/kalashagrahari", "icon": "bx bx-link" }
+  ],
+  "about": {
+    "title": "About me",
+    "subtitle": "My introduction",
+    "image": "https://raw.githubusercontent.com/code2forever/Portfolio/master/readme-image/me_about.jpg",
+    "description": [
+      "I am a Full Stack Developer focused on React.js, Node.js, backend engineering, APIs, and scalable web applications.",
+      "I enjoy understanding system design, performance optimization, databases, authentication, caching, and how production systems work behind the scenes."
+    ],
+    "stats": [
+      { "title": "Experience", "subtitle": "3+ Years", "icon": "bx bx-award" },
+      { "title": "Projects", "subtitle": "20+ Completed", "icon": "bx bx-briefcase-alt" },
+      { "title": "DSA", "subtitle": "1800+ Problems", "icon": "bx bx-data" }
+    ]
+  },
+  "footer": {
+    "title": "Kalash Agrahari",
+    "copyright": "© Kalash Agrahari. All rights reserved."
+  }
+}
