@@ -54,7 +54,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/code2forever/Portfolio.git
 
 2. Navigate to the project director.
    ```sh
